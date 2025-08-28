@@ -17,4 +17,4 @@ Built using *HTML, CSS, and JavaScript*.
 🔗 [Click here to use the Calculator](https://saniyasuthana25.github.io/calculator/)
 
 ## GitHub Repo
-🔗 [Calculator Repository](https://github.com/saniyasuthana25/calculator)
+🔗 [Calculator Repository](https://github.com/Saniyasulthana25/calculator)
